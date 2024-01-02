@@ -1,6 +1,6 @@
 # Cool Papers
 
-Cool Papers - Immersive Paper Discovery
+Immersive Paper Discovery（沉浸式刷论文！）
 
 这里记录Cool Papers的更新日志，并且收集用户的反馈和建议。
 
