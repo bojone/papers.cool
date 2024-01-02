@@ -1,4 +1,6 @@
-# Cool Papers - Immersive Paper Discovery
+# Cool Papers
+
+Cool Papers - Immersive Paper Discovery
 
 这里记录Cool Papers的更新日志，并且收集用户的反馈和建议。
 
