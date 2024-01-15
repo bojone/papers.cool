@@ -38,5 +38,8 @@ Immersive Paper Discovery（沉浸式刷论文！）
 ### 2024.01.09
 - **支持访问历史论文**：应很多用户请求，开通历史论文列表访问支持，可以在首页通过日历图标选择日期。这个历史列表是基于Cool Papers本身的累积，而不是实时从Arxiv获取（Arxiv也不支持访问一周以前的历史列表），所以目前的数据有限，再加上此前刚开发时有过一段数据混乱期，所以只支持2024年开始的日期。
 
+### 2024.01.15
+- **论文更新滞后**：今天Cool Papers在下午三点之后才更新，这是因为[官方Blog](https://blog.arxiv.org/2024/01/10/attention-authors-temporary-change-to-announcement-schedule-due-to-mlk-jr-holiday/)发布了今天不更新的公告，所以站长主动跳过了今天的更新，直到有用户提醒，才发现原来今天Arxiv是有更新的。
+
 ## 交流
 QQ交流群：67729435，微信群请加机器人微信号spaces_ac_cn
