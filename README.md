@@ -11,6 +11,9 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 ## 更新
 
+### 2024.01.16
+- **支持导出阅读记录**：点击列表页下方的Bar中间的星星，就会出现点击过[PDF]或者[Kimi]的论文列表，点击“Export”就会打开一个只包含这些论文的新页面，复制这个新页面的链接地址，就可以在其他设备或者与其他人分享阅读记录。
+
 ### 2024.01.15
 - **论文更新滞后**：今天Cool Papers在下午三点之后才更新，这是因为[官方Blog](https://blog.arxiv.org/2024/01/10/attention-authors-temporary-change-to-announcement-schedule-due-to-mlk-jr-holiday/)发布了今天不更新的公告，所以站长主动跳过了今天的更新，直到有用户提醒，才发现原来今天Arxiv是有更新的；
 - **适配早年论文Id**：此前Cool Papers适配的Arxiv ID为“\d{4}\.\d{5}”的格式，即四位年月加五位编号，后来发现早年的Arxiv ID有“\d{4}\.\d{4}”的格式，如Word2Vec是[1301.3781](https://papers.cool/arxiv/1301.3781)、GAN是[1406.2661](https://papers.cool/arxiv/1406.2661)，对此类情况做了适配和重定向（比如1406.2661其实访问1406.02661也可以，同理2401.06769访问2401.6769也可，会重定向到同一篇论文），为以后可能开放所有历史论文做准备；
