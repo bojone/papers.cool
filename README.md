@@ -13,7 +13,7 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 **沉浸式刷论文：**
 - 进入[首页](https://papers.cool)，选择自己相关的分类，点击“>>>>More>>>>”可以调整；
-- 进入相应的分类，如[cs,AI](https://papers.cool/arxiv/cs.AI)，如无意外，显示的是Arxiv最新一天的论文列表；
+- 进入相应的分类，如[cs.AI](https://papers.cool/arxiv/cs.AI)，如无意外，显示的是Arxiv最新一天的论文列表；
 - 看标题，看摘要，英文不好的同学，可以自行用浏览器的翻译功能全页翻译；
 - 如果标题或者摘要能引起你的兴趣，可以点击[PDF]看看论文详情，或者点击[Kimi]看看Kimi的总结；
 - 如果此时正好是论文更新不久，那就[Kimi]可能需要排队，但不着急，可以先看下一步；
