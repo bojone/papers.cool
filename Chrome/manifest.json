@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Cool Papers Redirector",
+    "version": "0.1.1",
+    "description": "Redirect paper links to papers.cool",
+    "icons": {"128": "icon.png"},
+    "action": {
+        "default_icon": {
+            "128": "icon.png"
+        },
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "contextMenus",
+        "notifications"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
