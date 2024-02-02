@@ -36,6 +36,10 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 ## 更新
 
+### 2024.02.02
+- **开放所有历史论文访问**：通过`https://papers.cool/arxiv/<paper_id>`的方式，可以访问任意Arxiv论文，如果数据库没有则实时爬取；
+- **增加Chorme重定向扩展**：通过浏览器安装[Cool Papers Redirector](https://chromewebstore.google.com/detail/cool-papers-redirector/goopbgbhhhionbpfdkkblnbeopfmlihm)，可以从任何正确的网页重定向到Cool Papers。
+
 ### 2024.01.28
 - **[Kimi]支持英文输出**：点击底部Bar的第四个按钮，可以选择[Kimi]的语言（中文or英文），点击“Save”保存后，后面点击[Kimi]时将会用对应的语言进行FAQ。
 
