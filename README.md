@@ -36,6 +36,11 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 ## 更新
 
+### 2024.06.30
+- **Arxiv合并阅读**：应部份用户需求，加入多个类别合并阅读功能，目前入口在首页arXiv标题右上方第三个图标（蓝色图标），参考链接为 [https://papers.cool/arxiv/cs.AI,cs.CL,cs.CV,cs.LG](https://papers.cool/arxiv/cs.AI,cs.CL,cs.CV,cs.LG)；
+- **增加回到底部按钮**：与回到顶部相对应；
+- **提高反爬虫能力**：近来出现一些恶意爬虫现象，针对此做了一些应对措施，普通用户无感。
+
 ### 2024.06.01
 - **Arxiv增加新字段**：为了更方便用户筛选论文，Arxiv分支增加Subjects字段和Publish字段，分别显示论文所属分类以及发布时间。
 
