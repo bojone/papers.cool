@@ -36,6 +36,9 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 ## 更新
 
+### 2024.07.09
+- **Venue增加订阅链接**：为了更方便用户接收会议论文集的收录信息，新增顶会论文Feed链接，订阅[https://papers.cool/venue/latest/feed](https://papers.cool/venue/latest/feed)即可获取最新收录的会议论文集。
+
 ### 2024.06.30
 - **Arxiv合并阅读**：应部份用户需求，加入多个类别合并阅读功能，目前入口在首页arXiv标题右上方第三个图标（蓝色图标），参考链接为 [https://papers.cool/arxiv/cs.AI,cs.CL,cs.CV,cs.LG](https://papers.cool/arxiv/cs.AI,cs.CL,cs.CV,cs.LG)；
 - **增加回到底部按钮**：与回到顶部相对应；
