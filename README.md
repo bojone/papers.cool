@@ -36,6 +36,9 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 ## 更新
 
+### 2024.08.07
+- **增加相关文献按钮**：每篇论文标题右方新增[REL]按钮，点击可以查找该论文的相关论文，基于关键词+全文搜索实现；
+
 ### 2024.07.09
 - **Venue增加订阅链接**：为了更方便用户接收会议论文集的收录信息，新增顶会论文Feed链接，订阅[https://papers.cool/venue/latest/feed](https://papers.cool/venue/latest/feed)即可获取最新收录的会议论文集。
 
