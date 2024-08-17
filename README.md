@@ -36,6 +36,9 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 ## 更新
 
+### 2024.08.17
+- **修正重音节问题**：之前arXiv上的论文摘要的重音节被默认转义了（参考[这里](https://arxiv.org/edit-user/tex-accents.php)），现已转换回来，目前可以直接搜索如“Schrödinger”之类的重音节单词。
+
 ### 2024.08.14
 - **支持LaTeX渲染**：通过MathJax支持标题、摘要和Kimi-FAQ中的公式渲染，并且经过精心调试，能够较好地兼容网页翻译功能，不会因为启用翻页功能导致公式乱码。
 
