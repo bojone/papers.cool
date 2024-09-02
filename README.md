@@ -36,6 +36,9 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 ## 更新
 
+### 2024.09.02
+- **新增特定会议订阅**：通过“https://papers.cool/venue/{{顶会名}}”可以访问该顶会最新一期（年）的论文列表，通过“https://papers.cool/venue/{{顶会名}}/feed”可以订阅该顶会最新一期（年）的论文列表，如[https://papers.cool/venue/AAAI](https://papers.cool/venue/AAAI)和[https://papers.cool/venue/AAAI/feed](https://papers.cool/venue/AAAI/feed)。
+
 ### 2024.08.17
 - **修正重音节问题**：之前arXiv上的论文摘要的重音节被默认转义了（参考[这里](https://arxiv.org/edit-user/tex-accents.php)），现已转换回来，目前可以直接搜索如“Schrödinger”之类的重音节单词。
 
