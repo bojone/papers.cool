@@ -36,6 +36,9 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 ## 更新
 
+### 2024.09.11
+- **新增按发布时间排序**：论文列表页面新增按照发布时间排序选项（时钟图标），同时搜索列表也开放排序功能。
+
 ### 2024.09.02
 - **新增特定会议订阅**：通过`https://papers.cool/venue/{{顶会名}}`可以访问该顶会最新一期（年）的论文列表，通过`https://papers.cool/venue/{{顶会名}}/feed`可以订阅该顶会最新一期（年）的论文列表，如[https://papers.cool/venue/AAAI](https://papers.cool/venue/AAAI)和[https://papers.cool/venue/AAAI/feed](https://papers.cool/venue/AAAI/feed)。
 
