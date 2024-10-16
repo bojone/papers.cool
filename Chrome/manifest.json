@@ -1,7 +1,9 @@
 {
+"update_url": "https://clients2.google.com/service/update2/crx",
+
     "manifest_version": 3,
     "name": "Cool Papers Redirector",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "description": "Redirect paper links to papers.cool",
     "icons": {"128": "icon.png"},
     "action": {
@@ -16,5 +18,15 @@
     ],
     "background": {
         "service_worker": "background.js"
-    }
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://arxiv.org/*",
+                "https://openreview.net/*",
+                "https://aclanthology.org/*"
+            ],
+            "js": ["content.js"]
+        }
+    ]
 }
