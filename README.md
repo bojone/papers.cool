@@ -36,6 +36,9 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 ## 更新
 
+### 2024.10.17
+- **整合大部分历史数据**：数据来自[Kaggle](https://www.kaggle.com/datasets/Cornell-University/arxiv)，整合其中的大部分，使得目前从Cool Papers访问大部分历史论文都不需要实时爬取了。
+
 ### 2024.10.16
 - **Chrome拓展升级到v0.2.0**：详情请看[博客](https://kexue.fm/archives/10480)，升级内容为：
   1. 右键菜单跳转改为在新标签页打开；
