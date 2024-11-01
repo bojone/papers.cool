@@ -36,8 +36,11 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 ## 更新
 
+### 2024.11.01
+- **默认隐藏部分作者列表**: 当作者数超出40时，默认隐藏部分作者列表，点击“et al.”按钮才显示完整，以免作者列表篇幅过大影响阅读。
+
 ### 2024.10.17
-- **整合大部分历史数据**：数据来自[Kaggle](https://www.kaggle.com/datasets/Cornell-University/arxiv)，整合其中的大部分，使得目前从Cool Papers访问大部分历史论文都不需要实时爬取了。
+- **整合arXiv历史数据**：数据来自[Kaggle](https://www.kaggle.com/datasets/Cornell-University/arxiv)，整合其中的大部分，使得目前从Cool Papers访问大部分arXiv历史论文都不需要实时爬取了。
 - **合并类别别名的显示**: 根据arXiv官方的注释<sup>[[来源](https://arxiv.org/category_taxonomy)]</sup>，类别[cs.NA, cs.SY, math.IT, math.MP, q-fin.EC, stat.TH]实际上是[math.NA, eess.SY, cs.IT, math-ph, econ.GN, math.ST]的别名，它们在subjects的显示中应该合二为一。
   
 ### 2024.10.16
