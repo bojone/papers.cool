@@ -36,6 +36,9 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 ## 更新
 
+### 2025.06.04
+- **下架x-Rxiv/bioRxiv**：bioRxiv上线没多久，官网就开启了Cloudflare反爬，经过深思决定还是选择下线bioRxiv而不是对抗。
+
 ### 2025.05.12
 - **会议论文底部显示所属会议**：迟来的更新，每篇会议论文下方，显示所属会议名称（Subject字段）。
 
