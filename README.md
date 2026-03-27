@@ -36,6 +36,9 @@ Immersive Paper Discovery（沉浸式刷论文！）
 
 ## 更新
 
+### 2026.03.27
+- **修复Kimi跳转异常**：Kimi网页版升级后，跳转到Kimi继续讨论的功能总是会默认关闭联网，导致该功能无法正常使用，现已修正。
+
 ### 2025.06.04
 - **下架x-Rxiv/bioRxiv**：bioRxiv上线没多久，官网就开启了Cloudflare反爬，经过深思决定还是选择下线bioRxiv而不是对抗。
 
